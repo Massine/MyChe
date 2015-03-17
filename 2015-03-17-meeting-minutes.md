@@ -17,7 +17,7 @@ last_updated: 03/17/2015
 Meeting Minutes
 ------
 
- **Content of the meeting ** 
+ **Content of the meeting** 
 
  *Deciding the content of this first meeting*
 
@@ -35,7 +35,7 @@ After considering all the arguments and investigating more on internet, we choos
 
 *Choosing a name for the group*
 
- According to the chosen project, we considered several possible names. At the end we decided to use ìMyCheî. 
+ According to the chosen project, we considered several possible names. At the end we decided to use ‚ÄúMyChe‚Äù. 
 
 *Tasks division*
 
