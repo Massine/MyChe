@@ -52,4 +52,4 @@ Each member had something to prepare for the presentation on Wednesday class.
 
 |**Djohan** |**Massine**|**Morgane** |**Santiago**|
 | ------------- |---------------- |------------- |----------------|
-|Not Signed| Signed|Not Signed|Not Signed
+|Not Signed| Signed|Not Signed| Signed
