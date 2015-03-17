@@ -19,7 +19,7 @@ Meeting Minutes
 
  **Content of the meeting** 
 
- *Deciding the content of this first meeting*
+ *Deciding the content for the project in the first meeting*
 
 - Choosing a product or a service to study
 - Choosing a name for the group
@@ -32,6 +32,9 @@ As we want to choose a name related to the product, we decided to work on the su
 Each member had to think about something to study before the meeting. Each one proposed at least one idea. 
 Each one briefly presented his ideas and explain why he thinks that it could be a good subject for the analysis report.
 After considering all the arguments and investigating more on internet, we choose one idea.
+An application for carpool (making travel social and efficient)
+Focus on sharing long and short distance transportation, eventual and continuous.
+Analyses this kind of applications that already exist and the potential to implement this in different parts of the world and it impacts. 
 
 *Choosing a name for the group*
 
