@@ -1,7 +1,7 @@
 Industry Analysis Report
 # Transportation Sharing  #
 ## MyChe ##
-
+------------------
 # Team members #
 
 # Table of content #
@@ -15,8 +15,15 @@ Industry Analysis Report
 # Part 1: Market Analysis #
 
 # Part 2: Transportation Analysis #
-
+## Environment Impacts
+### Shot Distance Trips
+### Long Distance Trips
+## Transportation Cost
+##Trafic Flow
 # Part 3: Technology Analysis #
+## Used Technologies
+## Limited Possibilities
+## Technologies to boost the market
 
 # Part 4: Law and Public policy #
 
@@ -29,6 +36,3 @@ Industry Analysis Report
 # Appentix #
 
 # Refrencies #
-
-
-
