@@ -34,24 +34,25 @@ Part 1: Market Analysis
 Part 2: Transportation and Environment
 
 	Habits of people to be transported in some countries
+
 	Size and growth of the number of cars around the world
 	Traffic increase during the last years in some biggest cities
 	The annual cost saving potential for users sharing transportation
 	Time reduction in transportation when use carpooling
 
-	The environmental impact due to transportation
-	A mathematical model to Compare CO2 emissions in diffentent scenarios
-	The potential for a global impact in the CO2 reduction
+	The environmental impact : Uber web page
+		The environmental impact due to transportation in different scenarios
+		The potential for a global impact in the CO2 reduction
 	
 
 Part 3: Technology Analysis
 
-	Used Technologies
+	Used Technologies and some limits
 	
 	Technologies to boost the market
 		Dynamic and flexible system
 		Security for carpooling users
-		Blockchain and carpooling 
+			Blockchain and carpooling (ride-sharing)
 
 Part 4: Law and Public policy
 
@@ -59,8 +60,12 @@ Part 4: Law and Public policy
 		HOV lanes
 
 	Government Actions
-		standard system and policy
-		
+		Security of the users (title to be changed)
+		Security of transportation profession (title to be changed)
+		Standard system and policy
+
+	
+
 Part 5: Social awareness
 
 	Who use carpooling
@@ -68,15 +73,14 @@ Part 5: Social awareness
 		Oil price and carpooling relation
 		................
 	Reasons for not carpooling
-	
+	A new model of economy: Uber case
 		
 Part 6: Challenges
 
 	Link the existing carpooling systems
 	Market and government working together
-	International law to encourage the carpooling
 	Electronic Carbon emission trading
-	
+	International law to encourage the carpooling
 
 
 Conclusions
