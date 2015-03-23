@@ -49,4 +49,4 @@ As we didn’t finished the logic model, each one had to continue working. We ha
 
 |**Djohan** |**Massine**|**Morgane** |**Santiago**|
 | ------------- |---------------- |------------- |----------------|
-|Not Signed| Signed| Not Signed| NotSigned
+|Not Signed| Signed| Signed| NotSigned
