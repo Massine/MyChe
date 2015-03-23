@@ -8,7 +8,7 @@ last_updated: 23/17/2015
 
 |**Date** |**Meeting time**|**Meeting place**
 | ------------- |:----------------:|:-------:
-|Mar. 19, 2015| 3:00 a.m | IE departement
+|Mar. 19, 2015| 3:00 p.m | IE departement
 
 
 ----------
