@@ -45,4 +45,4 @@ As all our team members found documents from personal research, we share them af
 
 |**Djohan** |**Massine**|**Morgane** |**Santiago**|
 | ------------- |---------------- |------------- |----------------|
-|Not Signed| Signed| Signed| Not Signed
+|Not Signed| Signed| Signed| Signed
