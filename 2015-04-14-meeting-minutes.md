@@ -44,4 +44,4 @@ Each of us made slides to present the related part during the presentation tomor
 
 |**Djohan** |**Massine**|**Morgane** |**Santiago**|
 | ------------- |---------------- |------------- |----------------|
-|Not Signed|NotSigned|Signed|Not Signed
+|Not Signed|NotSigned|Signed| Signed
