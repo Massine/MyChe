@@ -11,14 +11,29 @@ Industry Analysis Report
 # Executive Summary #
 
 # Introduction #
+## Concept of carpooling
+## Carpooling over the years
 
 # Part 1: Market Analysis #
+
+## Market size and growth
+
+## Overview on Carpooling Practices Across the World
+### Ridematching platform partnerships
+### Social networking platforms
+
+## Some companies
+
+### Zimride.com: Ridesharing with Facebook (USA)
+### CARRIVA
+### Nuride.com
+### carpool.com
 
 # Part 2: Transportation Analysis #
 ## Environment Impacts
 ### Shot Distance Trips
 ### Long Distance Trips
-## Transportation Cost
+## Transportation Cost		(The cost saving potential of carsharing)
 ##Trafic Flow
 # Part 3: Technology Analysis #
 ## Used Technologies
@@ -30,6 +45,8 @@ Industry Analysis Report
 # Part 5: Social awareness #
 
 # Part 6: Challenges #
+## Dynamic and secure carpooling
+## Standardize and unify
 
 # Conclusion #
 
