@@ -51,5 +51,5 @@ The way of communication for this part will be by WeChat, Mail (to send all the 
 \
 |**Djohan** |**Massine**|**Morgane** |**Santiago**|\
 | ------------- |---------------- |------------- |----------------|\
-|Not Signed|Signed|Signed| Not Signed\
+|Not Signed|Signed|Signed| Signed\
 }
