@@ -43,7 +43,7 @@ Part 2: Transportation and Environment
 	The environmental impact due to transportation
 	A mathematical model to Compare CO2 emissions in diffentent scenarios
 	The potential for a global impact in the CO2 reduction
-	
+		
 
 Part 3: Technology Analysis
 
