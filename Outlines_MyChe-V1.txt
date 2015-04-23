@@ -3,7 +3,6 @@ Executive Summary
 Introduction 
 
 	Concept of Carpooling 
-
 	Carpooling over the years
 		World War II car-sharing clubs (1942-1945) 
 		Major responses to the energy crises (1970-1980)
@@ -14,21 +13,17 @@ Introduction
 Part 1: Market Analysis
 		
 	Carpooling users during the last 45 years in USA
-
 	Carpooling users in some countries around the world
-
 	Business model available and how those make profit
 		Ridematching platforms
 		Social networking platforms
 		Green trips- sponsored incentives
-
 	Carpooling Practices and strategies Across the World
 		Zimride.com: Ridesharing with Facebook (USA)
  		CARRIVA
  		Nuride.com
  		carpool.com
-
-	The future of the carpooling market
+ 	The future of the carpooling market
 	Ideas toward develop the market of sharing transportation apps
 		Multilevel marketing between users
 		
@@ -37,7 +32,7 @@ Part 2: Transportation and Environment
 	Habits of people to be transported in some countries
 	Size and growth of the number of cars around the world
 	Traffic increase during the last years in some biggest cities
-	The annual cost saving potential for users sharing transportation
+	The cost saving potential for users sharing transportation
 	Time reduction in transportation when use carpooling
 
 	The environmental impact due to transportation
@@ -48,8 +43,7 @@ Part 2: Transportation and Environment
 Part 3: Technology Analysis
 
 	Used Technologies
-	
-	Technologies to boost the market
+		Technologies to boost the market
 		Dynamic and flexible system
 		Security for carpooling users
 		Blockchain and carpooling 
@@ -58,7 +52,6 @@ Part 4: Law and Public policy
 
 	Some Countries carpooling policies
 		HOV lanes
-
 	Government Actions
 		standard system and policy
 		
