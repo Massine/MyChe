@@ -4,25 +4,23 @@ Introduction
 
 	Concept of Carpooling 
 
-	Carpooling over the years
+	Evolution of the Carpooling
 		World War II car-sharing clubs (1942-1945) 
 		Major responses to the energy crises (1970-1980)
 		Early organized ride sharing schemes (1980 - 1997)
 		Reliable ride sharing systems (1999 - 2004) 
 		Technology-enabled ride matching (2004 - to present)
 	
+	Carpooling statistics in some countries around the world	
+	
 Part 1: Market Analysis
 		
-	Carpooling users during the last 45 years in USA
-
-	Carpooling users in some countries around the world
-
-	Business model available and how those make profit
+	Carpooling market
 		Ridematching platforms
 		Social networking platforms
 		Green trips- sponsored incentives
-
-	Carpooling Practices and strategies Across the World
+	
+	The last moves and strategies on market across the world
 		Lift
  		Uber
  		Blablacar
