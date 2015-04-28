@@ -15,16 +15,17 @@ Introduction
 	
 Part 1: Market Analysis
 		
-	Carpooling market
+	Ridesharing market
 		Ridematching platforms
 		Social networking platforms
 		Green trips- sponsored incentives
-	
-	The last moves and strategies on market across the world
+		
+	The latest movements and strategies on market across the world
+	Benchmark of some ride sharing companies
+		Uber
 		Lift
+		Blablacar
 		Sidecar
- 		Uber
- 		Blablacar
  		
 	The future of the carpooling market
 	Ideas toward develop the market of ride sharing networks
