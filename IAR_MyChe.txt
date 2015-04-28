@@ -23,12 +23,10 @@ Part 1: Market Analysis
 		Green trips- sponsored incentives
 
 	Carpooling Practices and strategies Across the World
-		Zimride.com: Ridesharing with Facebook (USA)
 		Lift
  		Uber
- 		Nuride.com
- 		carpool.com
-
+ 		Blablacar
+ 		
 	The future of the carpooling market
 	Ideas toward develop the market of sharing transportation apps
 		Multilevel marketing between users
