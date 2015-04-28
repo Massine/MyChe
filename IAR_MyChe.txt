@@ -22,11 +22,12 @@ Part 1: Market Analysis
 	
 	The last moves and strategies on market across the world
 		Lift
+		Sidecar
  		Uber
  		Blablacar
  		
 	The future of the carpooling market
-	Ideas toward develop the market of sharing transportation apps
+	Ideas toward develop the market of ride sharing networks
 		Multilevel marketing between users
 		
 Part 2: Transportation and Environment
