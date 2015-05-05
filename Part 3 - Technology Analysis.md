@@ -18,6 +18,13 @@ But even if the access to these technologies is a big opportunity for all the co
 #### A distributed system for more flexibility ####
 Solving the problem of flexibility of carpooling is a major challenge for all the companies in this industry. Regarding the dynamic aspect of carpooling environment, a good carpooling system has to be adapted to this evolving environment. Indeed the variation speed of the inputs are a major obstacle for the development of reliable system. The collection of data is made through a large area and large number of users. The prediction of evolution of those data (like the position of cars, the time that people need to carpool…) through statistical methods become impossible. The only solution is making a dynamic model of the network with decentralized decision making. It means that the decision of association a user to a car must be done autonomously.
 
+This aspect could be implemented by decentralized systems like Multi-Agent Systems (MAS) or Blockchain. The objective of these Agents is to successfully associate the different users through an optimization process subjected to several, complex and variable constraints. The choice of using MAS is directly related to the variation, the increase and the distribution of information sources. Indeed, in the classic systems, when the size of the network increases the complexity of the medialization became high and the limits of the systems are revealed. But with the MAS, the size of network increases the relevance of the solution. Indeed, managing a high number of data sources is not a constraint anymore. Then, the system become interesting because it offers more possible solutions. 
+
+Furthermore, the robustness of the proposed solution is depending on the quality of the optimization process. The complexity of this optimization problem is exponential. For this, the distribution process consists on executing simultaneously and in parallel several tasks with lower complexity.
+
+#### Optimization in the association of vehicles ####
+
+
 ### Security for carpooling users ###
 Even if the management of the transportation offers is a big issue for all the companies in this industry, from the point of view of users, the security and the traceability is the most important aspect and obstacle for the development of dynamic carpooling. The development of systems as “eNotions” in Germany, “EasyRider” for Amsterdam and “T.écovoiturage” in France haven’t solved those problems.
 #### Blockchain and carpooling (ride-sharing) ####
