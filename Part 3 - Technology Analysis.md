@@ -8,18 +8,9 @@ The websites like Blablacar is included in this category. The consultation of th
 
 The success of those systems doesn’t guarantee a stability for those companies. Indeed, regarding the development of new technologies and the evolution of people’s habits, the existing websites are becoming obsolete and a modification of the technologies seems to be a must.
 
-
-
-
-
-
-
-
-
-
-
-
 ## Technologies to boost the market ##
 ### Dynamic and flexible system ###
+This is a new concept in the area of carpooling and transportation in general. It consists on managing a continuous access to the carpooling available offers. A real time access is provided through a continuous updating of the offers and the demands. The development simultaneous development of this new “Smart” concept and the new technologies is not a coincidence. Indeed with the popularization of smartphones, tablets, connected devices (particularly for the cars), free access to the Wifi, GPS, 3G, 4G… the ‘in real time” became totally possible and accessible for all people. This evolution is directly relevant to the carpooling industry in the way that it is going to transform and change this industry by giving more solutions to solve the problem of flexibility.
+
 ### Security for carpooling users ###
 #### Blockchain and carpooling (ride-sharing) ####
