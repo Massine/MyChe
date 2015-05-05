@@ -6,7 +6,7 @@ Most of carpooling systems could be described as static carpooling systems. The 
 
 The websites like Blablacar is included in this category. The consultation of the offers is public but all other functionalities are accessible after a registration. After accessing the result of research on the database, the user can exchange some messages with the driver for the details. All the communications are made publicly and on the website. The carpoolers can have access the personal contact of each other only after buying and finalizing the transaction. Other website, with nonprofit objective, can give access to the personal contacts directly on the offer to reduce the number of operations made on the website. 
 
-The success of those systems doesn’t guarantee a stability for those companies. Indeed, regarding the development of new technologies and the evolution of people’s habits, the existing websites are becoming obsolete and a modification of the technologies seems to be a must
+The success of those systems doesn’t guarantee a stability for those companies. Indeed, regarding the development of new technologies and the evolution of people’s habits, the existing websites are becoming obsolete and a modification of the technologies seems to be a must.
 
 
 
