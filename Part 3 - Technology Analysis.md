@@ -8,6 +8,7 @@ The websites like Blablacar is included in this category. The consultation of th
 
 The success of those systems doesn’t guarantee a stability for those companies. Indeed, regarding the development of new technologies and the evolution of people’s habits, the existing websites are becoming obsolete and a modification of the technologies seems to be a must.
 
+
 ## Technologies to boost the market ##
 ### Dynamic and flexible system ###
 This is a new concept in the area of carpooling and transportation in general. It consists on managing a continuous access to the carpooling available offers. A real time access is provided through a continuous updating of the offers and the demands. The development simultaneous development of this new “Smart” concept and the new technologies is not a coincidence. Indeed with the popularization of smartphones, tablets, connected devices (particularly for the cars), free access to the Wifi, GPS, 3G, 4G… the ‘in real time” became totally possible and accessible for all people. This evolution is directly relevant to the carpooling industry in the way that it is going to transform and change this industry by giving more solutions to solve the problem of flexibility.
@@ -30,6 +31,7 @@ In the carpooling industry, some optimization algorithms have been developed but
 -	The first one is the limitation of geographic area. Indeed, if we look to carpooling websites that use optimization concept, we can notice that the geographic area is limited to one company, one university or one small organization.
 -	The second one is the problem of flexibility. The results that have been applied don’t take in consideration the dynamic aspect of problem. After making the combinations and association of drivers and passengers, the system will not be able to adapt to other situation like an introduction on a new user (driver or passenger), modification of location of one of them….
 
+If we assume that the taxi optimization problem is a good starting point, we have to emphasis an important point which is specific to the carpooling system. Indeed, for the taxi problem, we need to associate clients to drivers. For this we consider the current positions of the taxi, the initial and the final positions of the clients. In the carpooling system, the driver and the client have two different objective. It means that the driver has his own itinerary and we should consider whether a deviation from the initial itinerary is acceptable or not. It means in the carpooling system, we should introduce a concept of tolerance that is going to quantify to what extent the deviation is importance.
 ### Security for carpooling users ###
 Even if the management of the transportation offers is a big issue for all the companies in this industry, from the point of view of users, the security and the traceability is the most important aspect and obstacle for the development of dynamic carpooling. The development of systems as “eNotions” in Germany, “EasyRider” for Amsterdam and “T.écovoiturage” in France haven’t solved those problems.
 #### Blockchain and carpooling (ride-sharing) ####
