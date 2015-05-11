@@ -23,6 +23,7 @@ This aspect could be implemented by decentralized systems like Multi-Agent Syste
 Furthermore, the robustness of the proposed solution is depending on the quality of the optimization process. The complexity of this optimization problem is exponential. For this, the distribution process consists on executing simultaneously and in parallel several tasks with lower complexity.
 
 #### Optimization in the association of vehicles ####
+The optimization is a key point for our analysis. Since the development of IT, people started studying optimization applied to different areas. We can easily use the large number of studies about optimization in transportation and specifically in transportation by taxi as a start point for our carpooling problem. Indeed, we can easily identify similarities between a taxi network and a carpool network especially for travels home – work.
 
 
 ### Security for carpooling users ###
