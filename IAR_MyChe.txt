@@ -2,16 +2,16 @@
 Executive Summary 
 Introduction 
 
-	Concept of Carpooling 
+	Concept of ridesharing
 
-	Evolution of the Carpooling
+	Evolution of the ridesharing
 		World War II car-sharing clubs (1942-1945) 
 		Major responses to the energy crises (1970-1980)
 		Early organized ride sharing schemes (1980 - 1997)
 		Reliable ride sharing systems (1999 - 2004) 
 		Technology-enabled ride matching (2004 - to present)
 	
-	Carpooling statistics in some countries around the world	
+	Ridesharing statistics in some countries around the world	
 	
 Part 1: Market Analysis
 		
@@ -21,13 +21,14 @@ Part 1: Market Analysis
 		Green trips- sponsored incentives
 		
 	The latest movements and strategies on market across the world
-	Benchmark of some ride sharing companies
-		Uber
-		Lift
-		Blablacar
+		Uber and the new model of business
+		From Zimride to Lift
 		Sidecar
+		Blablacar in Europe and their own model of business
+		
  		
 	The future of the carpooling market
+		Ridesharng and less driving cars
 	Ideas toward develop the market of ride sharing networks
 		Multilevel marketing between users
 		
@@ -80,7 +81,7 @@ Part 6: Challenges
 	Link the existing carpooling systems
 	Market and government working together
 	Electronic Carbon emission trading
-	International law to encourage the carpooling
+	International law 
 
 
 Conclusions
