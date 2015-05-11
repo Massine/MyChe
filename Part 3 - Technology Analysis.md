@@ -25,6 +25,10 @@ Furthermore, the robustness of the proposed solution is depending on the quality
 #### Optimization in the association of vehicles ####
 The optimization is a key point for our analysis. Since the development of IT, people started studying optimization applied to different areas. We can easily use the large number of studies about optimization in transportation and specifically in transportation by taxi as a start point for our carpooling problem. Indeed, we can easily identify similarities between a taxi network and a carpool network especially for travels home – work.
 
+In the carpooling industry, some optimization algorithms have been developed but not in order to make the system more flexible. Those algorithms focus more about associate rides after collecting static data. Indeed, two limitations can be listed.
+
+-	The first one is the limitation of geographic area. Indeed, if we look to carpooling websites that use optimization concept, we can notice that the geographic area is limited to one company, one university or one small organization.
+-	The second one is the problem of flexibility. The results that have been applied don’t take in consideration the dynamic aspect of problem. After making the combinations and association of drivers and passengers, the system will not be able to adapt to other situation like an introduction on a new user (driver or passenger), modification of location of one of them….
 
 ### Security for carpooling users ###
 Even if the management of the transportation offers is a big issue for all the companies in this industry, from the point of view of users, the security and the traceability is the most important aspect and obstacle for the development of dynamic carpooling. The development of systems as “eNotions” in Germany, “EasyRider” for Amsterdam and “T.écovoiturage” in France haven’t solved those problems.
