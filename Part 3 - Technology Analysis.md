@@ -43,6 +43,8 @@ Basically, the nodes are representing the stating position of users and the arcs
 
 The second graph is built by collecting the information, the constraints and the preferences of users. It is built with the initial position, the final position, the number of people and the total duration of the trip. This last variable is calculated using an adapted function and including other parameters like the late time admitted, the tolerance about distance and all constraints that are considered as relevant.
 
+With a similar way, we can build the last graph about the offers. We will build it using the initial position of cars, the destination of cars, the number of available sits, the duration of the trip and also one more parameter which consist in a vector of intermediate destinations. Indeed, to simplify the resolution of the problem, it is better to create a vector that groups all the information about the points that are possible to serve. Doing this, we can easily check if a user’s destination can be served by comparing this final destination of the user to the intermediate points of cars. 
+
 
 ### Security for carpooling users ###
 Even if the management of the transportation offers is a big issue for all the companies in this industry, from the point of view of users, the security and the traceability is the most important aspect and obstacle for the development of dynamic carpooling. The development of systems as “eNotions” in Germany, “EasyRider” for Amsterdam and “T.écovoiturage” in France haven’t solved those problems.
