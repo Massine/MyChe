@@ -39,6 +39,8 @@ To solve this problem, an innovative model was proposed by the studies. This mod
 
 The studies proposed to model the problem with 3 different distributed graphs. The first one is representing the network with nodes and arcs, the second one is representing the demands and the last one the offers.
 
+Basically, the nodes are representing the stating position of users and the arcs are the itinerary that can be token. These two kind information are automatically updated using GPS localization module. For this part of technology, there is nothing innovative and a lot of applications like Uber are already using this.
+
 
 ### Security for carpooling users ###
 Even if the management of the transportation offers is a big issue for all the companies in this industry, from the point of view of users, the security and the traceability is the most important aspect and obstacle for the development of dynamic carpooling. The development of systems as “eNotions” in Germany, “EasyRider” for Amsterdam and “T.écovoiturage” in France haven’t solved those problems.
