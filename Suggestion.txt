@@ -1,0 +1,4 @@
+Design
+IAR p2 - p3 - p9 : 	backgroud moved a little bit to the left.
+IAR p7: 		Propose alligne the text on the right and put in 			closer to the circles.
+IAR p10: 		make the text to folow the circles
