@@ -37,6 +37,8 @@ More globally, the notion of optimization is not related only to those kind of d
 
 To solve this problem, an innovative model was proposed by the studies. This model is based on the distributed architecture of the program. It means using architecture like blockchain, we are able to separate the initial problem on several others with the objective of reducing the exponential complexity. The different small problems are solved in parallel after this decentralization.
 
+The studies proposed to model the problem with 3 different distributed graphs. The first one is representing the network with nodes and arcs, the second one is representing the demands and the last one the offers.
+
 
 ### Security for carpooling users ###
 Even if the management of the transportation offers is a big issue for all the companies in this industry, from the point of view of users, the security and the traceability is the most important aspect and obstacle for the development of dynamic carpooling. The development of systems as “eNotions” in Germany, “EasyRider” for Amsterdam and “T.écovoiturage” in France haven’t solved those problems.
