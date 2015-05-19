@@ -23,7 +23,7 @@ Part 1: Market Analysis
 	The latest movements and strategies on market across the world
 		Uber and the new model of business
 		From Zimride to Lift
-		Sidecar
+		The visionary Sidecar since 2002 
 		Blablacar in Europe and its own model of business
 		
  		
@@ -53,7 +53,7 @@ Part 3: Technology Analysis
 	Technologies to boost the market
 		Dynamic and flexible system
 		Security for carpooling users
-			Blockchain and carpooling (ride-sharing)
+			Blockchain and ridesharing
 
 Part 4: Law and Public policy
 
@@ -78,10 +78,10 @@ Part 5: Social awareness
 		
 Part 6: Challenges
 
-	Link the existing carpooling systems
+	Link the existing ridesharing systems
 	Market and government working together
 	Electronic Carbon emission trading
-	International law 
+	International law for ridesharing
 
 
 Conclusions
