@@ -50,5 +50,5 @@ Santiago finished the video to present the topic of sharing car + continue to wr
 \
 |**Djohan** |**Massine**|**Morgane** |**Santiago**|\
 | ------------- |---------------- |------------- |----------------|\
-|Not Signed|Not Signed|Signed|  Signed\
+|Not Signed| Signed|Signed|  Signed\
 }
