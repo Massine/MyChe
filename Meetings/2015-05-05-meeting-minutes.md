@@ -43,5 +43,5 @@ Santiago try to create a video to present the topic of sharing car + continue to
 \
 |**Djohan** |**Massine**|**Morgane** |**Santiago**|\
 | ------------- |---------------- |------------- |----------------|\
-|Not Signed|Not Signed|Signed| Signed\
+|Not Signed| Signed|Signed| Signed\
 }
