@@ -45,6 +45,18 @@ The second graph is built by collecting the information, the constraints and the
 
 With a similar way, we can build the last graph about the offers. We will build it using the initial position of cars, the destination of cars, the number of available sits, the duration of the trip and also one more parameter which consist in a vector of intermediate destinations. Indeed, to simplify the resolution of the problem, it is better to create a vector that groups all the information about the points that are possible to serve. Doing this, we can easily check if a user’s destination can be served by comparing this final destination of the user to the intermediate points of cars. 
 
+When this basic concept if developed, we need to develop a strategy of treating the data. For this we are going to use 5 major steps.
+
+    `Graph process`
+
+
+
+
+- Step 1: acquisition of the demands
+For this step we need to receive all the demands for carpooling and treat them in parallel. For this, the time is one of most important parameters. Each interval of time t, we refresh the entering data and build the new matrix containing the information for the graph of demands.
+In this part we need to use 3 major technologies. The first one is the internal clock of the system with a precision of a few seconds or less. Then we need to use GPS inside user’s device. If the device doesn’t contain any GPS technology, other solutions are possible like using Wi-Fi signal or 3G/4G localization system. Then the last one is the communication protocol. Indeed, to send all these data from a device to another, we need build first a communication protocol which is going to guarantee in one hand, the transmission without any loss of information and in the other hand, the security of users by the cryptography algorithms.
+
+
 
 ### Security for carpooling users ###
 Even if the management of the transportation offers is a big issue for all the companies in this industry, from the point of view of users, the security and the traceability is the most important aspect and obstacle for the development of dynamic carpooling. The development of systems as “eNotions” in Germany, “EasyRider” for Amsterdam and “T.écovoiturage” in France haven’t solved those problems.
