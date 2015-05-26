@@ -82,5 +82,11 @@ Simulated Annealing using Metropolis algorithm which is based on the research on
 
 
 ### Security for carpooling users ###
+The security is one of the most important part in the carpooling system. The users will be encouraged to use carpooling only if the security is guaranteed. The drivers also pay attention to the solutions that are developed to protect themselves. The objective of this part is to show these possible solutions.
+
 Even if the management of the transportation offers is a big issue for all the companies in this industry, from the point of view of users, the security and the traceability is the most important aspect and obstacle for the development of dynamic carpooling. The development of systems as “eNotions” in Germany, “EasyRider” for Amsterdam and “T.écovoiturage” in France haven’t solved those problems.
+
+When you use a distributed network, you can also use it to share the information. It is easy to share the GPS data in the distributed system. It could be a problem to use smartphones as for the distributed network. Due to the design of smartphones and tablets, some technical problems could be faced. Solving those problems will be easier if the market is already using the technology. For this, some studies proposed to start building the distributed network using computers. Then the users will setup there account with the computer and then synchronize the data with the tablet or smartphone. Of course this solution is less secure that using directly smartphones for the network. But it is a good start point to encourage people to improve this situation.
+
+
 #### Blockchain and carpooling (ride-sharing) ####
