@@ -64,6 +64,16 @@ This step is totally virtual and doesn’t use any real hardware technology. But
 
 
 
+- Step 4: Decomposition of the process
+
+This step is also a virtual one. It consists on grouping the users and the cars in small geographic areas. In order to simplify the calculations and the then reduce the complexity, different studies agreed to group the data within circular areas.
+The method that is used is called “hierarchical clustering”
+
+    http://en.wikipedia.org/wiki/Hierarchical_clustering
+
+- Step 5: Optimization
+
+
 
 ### Security for carpooling users ###
 Even if the management of the transportation offers is a big issue for all the companies in this industry, from the point of view of users, the security and the traceability is the most important aspect and obstacle for the development of dynamic carpooling. The development of systems as “eNotions” in Germany, “EasyRider” for Amsterdam and “T.écovoiturage” in France haven’t solved those problems.
