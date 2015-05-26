@@ -49,12 +49,19 @@ When this basic concept if developed, we need to develop a strategy of treating 
 
     `Graph process`
 
-
-
-
 - Step 1: acquisition of the demands
+
 For this step we need to receive all the demands for carpooling and treat them in parallel. For this, the time is one of most important parameters. Each interval of time t, we refresh the entering data and build the new matrix containing the information for the graph of demands.
 In this part we need to use 3 major technologies. The first one is the internal clock of the system with a precision of a few seconds or less. Then we need to use GPS inside user’s device. If the device doesn’t contain any GPS technology, other solutions are possible like using Wi-Fi signal or 3G/4G localization system. Then the last one is the communication protocol. Indeed, to send all these data from a device to another, we need build first a communication protocol which is going to guarantee in one hand, the transmission without any loss of information and in the other hand, the security of users by the cryptography algorithms.
+
+- Step 2: acquisition of the offers
+
+During this step, we are going to perform the same tasks than last part. Also in this part we need to update the data in “continuous” flow. For this we are going to setup a time t before each new acquisition. The technology that we are going to use is the same. But, as we are talking about cars moving, we need to use better quality technology to have accurate data processing. Indeed, if for the users, a simple GPS in the smartphone is adapted, for the car we need to use the integrated GPS with more precision and high frequency of updates.
+
+- Step 3: building the graphs
+
+This step is totally virtual and doesn’t use any real hardware technology. But even if only algorithms are involved for this step, it is a critical step. Indeed, for the 2 previous steps we defines the way to collect and to store data in Matrix. Then using theories coming from “Graph theory”, we are able to build a Graph. Here graph refers to mathematical concept of graphs.
+
 
 
 
