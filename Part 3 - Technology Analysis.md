@@ -73,6 +73,12 @@ The method that is used is called “hierarchical clustering”
 
 - Step 5: Optimization
 
+Considering the definition of the problem, the multiple objective optimization seems to be a must. Indeed, more and more problems can’t be solved by optimizing one function. Our problem is one of them. The distributed modeling that we choose imposed to use this kind of optimization.
+Many possible algorithms and methods can be used to solve this kind of problems. In the literature, and for the multiple objective optimization problems, we can find the following algorithms.
+Simulated Annealing using Metropolis algorithm which is based on the research on an equilibria inside the system, Tabu Search for the problems where we need to record the different tries, Evolutionary algorithms and Ant colony which are the most flexible, robust, and decentralized algorithms that we have developed. The only obstacle is the evolution of the research in this area. Indeed, even if the concept is developed, the application on real cases are difficult. Maybe this algorithm will be the future of this industry, but for the moment, the specialists agree to say that the most adapted algorithm for carpooling is the “Dijkstra's algorithm”
+
+    http://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+
 
 
 ### Security for carpooling users ###
